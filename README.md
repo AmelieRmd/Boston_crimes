@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boston Crimes
 
 ## Challenge
@@ -88,3 +89,7 @@ The following fields are available:
 
 
 - `PERC_COLLEGE_GRADUATES`: the percentage of the district's residents having completed a college degree averaged over the 2015-2019.
+=======
+# Boston_crimes
+Practice with Boston crimes Kaggle Challenge
+>>>>>>> 8c3f2abe252cc123d10913e5ec16c7646ae51827
